@@ -15,7 +15,7 @@
      ![VSCode UI](part2-pic2.png)
      
 2. **Section links:**
-   [README.md](https://faquanly.github.io/CSE110-lab1/)
+   [README.md](https://faquanly.github.io/CSE110-SP24/)
 
 3. **Task lists:**
 
